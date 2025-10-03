@@ -253,7 +253,7 @@ h3{
     display: block;
     border-radius: 10px;
     border: 0px solid black;
-    height: 710px;
+    height: 600px;
     object-fit: cover;
     margin-bottom: 30px;
 }
@@ -267,11 +267,13 @@ a{
 @media(max-width: 700px){
     .projects-col video{
         height: 150px;
+        width: 100px;
     }
 }
 @media (min-width: 701px) and (max-width: 1400px){
     .projects-col video{
-        height: 400px;
+        height: 200px;
+        width: 150px;
     }
 }
 
