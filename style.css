@@ -270,7 +270,7 @@ a{
         width: 100px;
     }
 }
-@media (min-width: 701px) and (max-width: 1400px){
+@media (min-width: 701px) and (max-width: 1500px){
     .projects-col video{
         height: 200px;
         width: 150px;
@@ -410,3 +410,4 @@ a{
         flex-direction: column;
     }
 }
+
